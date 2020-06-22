@@ -7,3 +7,4 @@
 pandoc $1 -f docx -t markdown --extract-media . -o tmp.md
 title=$(grep -zoP '(?s)(?<=Paper).*(?=Authors)' tmp.md | tr -s "[:punct:]" " " | tr '\r\n' ' ' | awk '$1=$1')
 mv tmp.md "$title".md
+sed -i 's/\\`/\`/g' "$title".md 
