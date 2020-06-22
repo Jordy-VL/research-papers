@@ -45,7 +45,7 @@ Additional perfect calibration statistical test.
 ----------------------------------------------------------------
 
 [*https://github.com/dirichletcal/experiments\_neurips*](https://github.com/dirichletcal/experiments_neurips)\
-[*https://github.com/dirichletcal/experiments\_dnn*]()
+*https://github.com/dirichletcal/experiments\_dnn*
 
 \
 Usefulness\
@@ -69,7 +69,7 @@ Lovely visualization and interpretability:
 ![](./media/image1.png){width="2.3756944444444446in"
 height="1.7416666666666667in"}
 
-**Feasability\
+**Feasibility\
 **(short-term/long-term | nice-to-have, complexity / far-from-practice?)
 ------------------------------------------------------------------------
 
@@ -89,24 +89,36 @@ Questions/Ideas
 -   Is there a combination possible with Bayesian model (deep ensemble /
     MC dropout) and calibration layer?
 
-**BIBtex:**
-```
+**BIBtex: \`\`\`**
+
 @incollection{kull\_beyond\_2019,
+
 title = {Beyond temperature scaling: {Obtaining} well-calibrated
 multi-class probabilities with {Dirichlet} calibration},
+
 shorttitle = {Beyond temperature scaling},
+
 url =
 {http://papers.nips.cc/paper/9397-beyond-temperature-scaling-obtaining-well-calibrated-multi-class-probabilities-with-dirichlet-calibration.pdf},
+
 urldate = {2020-06-16},
+
 booktitle = {Advances in {Neural} {Information} {Processing} {Systems}
 32},
+
 publisher = {Curran Associates, Inc.},
+
 author = {Kull, Meelis and Perello Nieto, Miquel and Kängsepp, Markus
 and Silva Filho, Telmo and Song, Hao and Flach, Peter},
+
 editor = {Wallach, H. and Larochelle, H. and Beygelzimer, A. and
 Alché-Buc, F. d{\\textbackslash}textquotesingle and Fox, E. and Garnett,
 R.},
+
 year = {2019},
+
 pages = {12316--12326}
+
 }
-```
+
+> \`\`\`
