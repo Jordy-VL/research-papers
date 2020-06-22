@@ -17,11 +17,11 @@ Start with around 10 papers per opportunity slot; select 1 or 2 for this week
 
 # List of papers
 
-##### [20-06-00] [paper0]
+##### [20-06-22] [paper0]
 - Beyond temperature scaling: Obtaining well-calibrated multiclass probabilities with Dirichlet calibration [[pdf]](https://arxiv.org/abs/1910.12656) [[code]](https://github.com/dirichletcal/experiments_neurips) [[poster]](https://dirichletcal.github.io/documents/neurips2019/poster.pdf) [[slides]](https://dirichletcal.github.io/documents/neurips2019/slides.pdf) [[video]](https://dirichletcal.github.io/documents/neurips2019/video/Meelis_Ettekanne.mp4)
 - *Meelis Kull, Miquel Perello-Nieto, Markus Kängsepp, Telmo Silva Filho, Hao Song, Peter Flach*
 - `2019-10-28, NeurIPS 2019`
-- [[Uncertainty Estimation]](#uncertainty-estimation)
+- [[Calibration]](#calibration)
 
 
 
