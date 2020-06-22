@@ -89,9 +89,9 @@ Questions/Ideas
 -   Is there a combination possible with Bayesian model (deep ensemble /
     MC dropout) and calibration layer?
 
-**BIBtex: \`\`\`**
+**BIBtex: **
 
-@incollection{kull\_beyond\_2019,
+**\`\`\`**@incollection{kull\_beyond\_2019,
 
 title = {Beyond temperature scaling: {Obtaining} well-calibrated
 multi-class probabilities with {Dirichlet} calibration},
@@ -121,4 +121,4 @@ pages = {12316--12326}
 
 }
 
-> \`\`\`
+\`\`\`
