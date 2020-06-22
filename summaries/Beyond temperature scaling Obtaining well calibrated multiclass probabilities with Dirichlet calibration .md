@@ -91,7 +91,9 @@ Questions/Ideas
 
 **BIBtex: **
 
-**```**@incollection{kull\_beyond\_2019,
+**```**
+
+@incollection{kull\_beyond\_2019,
 
 title = {Beyond temperature scaling: {Obtaining} well-calibrated
 multi-class probabilities with {Dirichlet} calibration},
