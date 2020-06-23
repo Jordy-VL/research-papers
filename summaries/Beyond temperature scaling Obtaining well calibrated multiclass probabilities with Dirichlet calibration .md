@@ -89,6 +89,11 @@ Questions/Ideas
 -   Is there a combination possible with Bayesian model (deep ensemble /
     MC dropout) and calibration layer?
 
+-   Zoom in on their code workflow; 
+    get logits of val & test + model weights [format]
+    CV schemas
+    finetuning of calibrators
+
 **BIBtex: **
 
 ```
