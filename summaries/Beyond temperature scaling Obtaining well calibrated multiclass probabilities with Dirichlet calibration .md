@@ -1,5 +1,5 @@
-*Paper*: **Beyond temperature scaling: Obtaining well-calibrated
-multiclass probabilities with Dirichlet calibration**\
+*Paper*: [**Beyond temperature scaling: Obtaining well-calibrated
+multiclass probabilities with Dirichlet calibration**](https://arxiv.org/abs/1910.12656)
 *Authors: Meelis Kull, Miquel Perello-Nieto, Markus Kängsepp, Telmo
 Silva Filho, Hao Song, Peter Flach\
 Published:* 2019-10-28, NeurIPS 2019*\
