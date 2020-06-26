@@ -24,4 +24,9 @@ Start with around 10 papers per opportunity slot; select 1 or 2 for this week
 - [[Calibration]](#calibration)
 
 
+##### [20-06-25] [paper1]
+- Mitigating uncertainty in Document Classification [[pdf]](https://xuczhang.github.io/papers/naacl19_uncertainty_full.pdf) [[code]](https://github.com/xuczhang/UncertainDC) [[video]](https://vimeo.com/347415373)
+- *Xuchao Zhang, Fanglan Chen, Chang-Tien Lu, Naren Ramakrishnan*
+- `NAACL 2019`
+- [[Predictive Uncertainty]](#Predictive_Uncertainty)
 
