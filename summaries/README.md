@@ -14,6 +14,13 @@ Jordy
 ## Backlog
 Start with around 10 papers per opportunity slot; select 1 or 2 for this week
 
+##### [20-06-25] [paperX]
+- How Large a Vocabulary Does Text Classification Need? A Variational Approach to Vocabulary Selection[[pdf]](https://arxiv.org/pdf/1902.10339.pdf) [[code]](https://github.com/wenhuchen/Variational-Vocabulary-Selection)
+- *Wenhu Chen† , Yu Su¶ , Yilin Shen‡, Zhiyu Chen†, Xifeng Yan†, William Wang†*
+- `NAACL 2019`
+- [[Document Classification]](#Document_Classification)
+
+
 
 # List of papers
 
